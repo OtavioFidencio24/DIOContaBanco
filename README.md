@@ -12,4 +12,5 @@ onde o usuário digita as informações da conta via terminal.
 - Java 21+
 
 ## Repositório Original
+Neste respositório contém todas as informações necessárias para conclusão do desafio proposto - 
 https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe
